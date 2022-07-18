@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yacinebendjebbar
-- 👀 I’m interested in programming , mostly web and A.I .
-- 🌱 I’m currently learning web developement .
+- 🌱 Currently learning web developement .
 - 📫 How to reach me : yacine.benjebbar@gmail.com
 
 <!---
