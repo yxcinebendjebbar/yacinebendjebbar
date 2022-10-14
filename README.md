@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yacinebendjebbar
 - 🌱 Currently learning web developement .
-- 📫 How to reach me : yacine.benjebbar@gmail.com
+- 📫 How to reach me : yacine.bendjebbar@outlook.com
 
 <!---
 yacinebendjebbar/yacinebendjebbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
