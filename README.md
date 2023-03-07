@@ -1,10 +1,13 @@
-## echo "Hello there 👋!"
+### Hi there 👋
 
-## while [ "$skill" -eq "Web Developer" -a "skill" -eq "Designer" ] ;do
-  reach_out yacine.bbusiness@gmail.com
-## done
+![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
 
-<!---
-yacinebendjebbar/yacinebendjebbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### I'm a FrontEnd Developer.
+
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.svg`, `.psd`
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **design**, **development**, **design thinking**
+- 📫 Reach me: [GMAIL](mailto:yacine.bbusiness@gmail.com)
+- ⚡️ Fun fact: I'm a huge fan of One Piece :D
+
+-----
