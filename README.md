@@ -1,7 +1,8 @@
-echo "Hello there 👋!"
+## echo "Hello there 👋!"
 
-while [ "$SKILL" -eq "Web Developer" -a "$SKILL" -eq "Designer" ];do
+## while [ "$skill" -eq "Web Developer" -a "skill" -eq "Designer" ] ;do
   reach_out yacine.bbusiness@gmail.com
+## done
 
 <!---
 yacinebendjebbar/yacinebendjebbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
