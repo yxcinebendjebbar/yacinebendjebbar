@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @yacinebendjebbar
-- 🌱 Currently learning web developement .
-- 📫 How to reach me : yacine.bendjebbar@outlook.com
+echo "Hello there 👋!"
+
+while [ "$SKILL" -eq "Web Developer" -a "$SKILL" -eq "Designer" ];do
+  reach_out yacine.bbusiness@gmail.com
 
 <!---
 yacinebendjebbar/yacinebendjebbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
